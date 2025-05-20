@@ -7,7 +7,7 @@ body {
 .content {
     text-align: justify;
     max-width: 1600px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .img-right {
